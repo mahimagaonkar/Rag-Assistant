@@ -1,0 +1,23 @@
+python-dotenv
+
+# LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-postgres
+
+# PostgreSQL + pgvector
+psycopg2-binary
+pgvector
+
+# Document processing
+pypdf
+
+# Embeddings
+sentence-transformers
+
+# LLM providers
+langchain-groq
+langchain-huggingface
+huggingface-hub
